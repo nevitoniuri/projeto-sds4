@@ -27,37 +27,37 @@ function Home() {
 
                 <div className="card-group py-3 text-center">
                     <div className="card col-sm-2 m-1">
-                        <img className="card-img-top py-2" src={imgJava} alt="DevSuperior" />
+                        <img className="card-img-top py-1" src={imgJava} alt="DevSuperior" />
                         <div className="card-body">
                             <h5 className="card-title">Java</h5>
                         </div>
                     </div>
                     <div className="card col-sm-2 m-1">
-                        <img className="card-img-top py-2" src={imgSpring} alt="DevSuperior"  />
+                        <img className="card-img-top py-1" src={imgSpring} alt="DevSuperior"  />
                         <div className="card-body">
                             <h5 className="card-title">Spring Boot</h5>
                         </div>
                     </div>
                     <div className="card col-sm-2 m-1">
-                        <img className="card-img-top py-2" src={imgPostgreSQL} alt="DevSuperior"  />
+                        <img className="card-img-top py-1" src={imgPostgreSQL} alt="DevSuperior"  />
                         <div className="card-body">
                             <h5 className="card-title">PostgreSQL</h5>
                         </div>
                     </div>
                     <div className="card col-sm-2 m-1">
-                        <img className="card-img-top py-2" src={imgReact} alt="DevSuperior"  />
+                        <img className="card-img-top py-1" src={imgReact} alt="DevSuperior"  />
                         <div className="card-body">
                             <h5 className="card-title">React</h5>
                         </div>
                     </div>
                     <div className="card col-sm-2 m-1">
-                        <img className="card-img-top py-2" src={imgTypescript} alt="DevSuperior" />
+                        <img className="card-img-top py-1" src={imgTypescript} alt="DevSuperior" />
                         <div className="card-body">
                             <h5 className="card-title">TypeScript</h5>
                         </div>
                     </div>
                     <div className="card col-sm-2 m-1">
-                        <img className="card-img-top py-2" src={imgBootstrap} alt="DevSuperior" />
+                        <img className="card-img-top py-1" src={imgBootstrap} alt="DevSuperior" />
                         <div className="card-body">
                             <h5 className="card-title">Bootstrap</h5>
                         </div>
